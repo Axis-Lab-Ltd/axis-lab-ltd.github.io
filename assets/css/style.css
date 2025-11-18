@@ -44,8 +44,25 @@ nav ul li a {
   width: 5em;
 }
 
+main {
+  margin: 1cm 1cm;
+  padding-bottom: 1cm;
+}
+
+main h1 {
+  margin: 1cm 1cm;
+}
+
+main h2 {
+  margin: 1cm 1cm;
+}
+
 main p {
-  margin: 2em 5em;
+  margin: 0.5cm 1cm;
+}
+
+main ul li {
+  margin: 0cm 1cm;
 }
 
 footer {

@@ -21,8 +21,8 @@
 title: Axis Lab Ltd
 email: evgent.p.kurbatov@gmail.com
 description: Website for Axis Lab Ltd
-url: "https://evgenykurbatov.github.io"
-baseurl: "/axislab"
+url: "https://axis-lab-ltd.github.io"
+baseurl: ""
 
 twitter_username: jekyllrb
 github_username:  jekyll

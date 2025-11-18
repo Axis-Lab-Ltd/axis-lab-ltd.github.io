@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+  </head>
+  <body>
+    <header>
+      <nav>
+        {% include menu.html %}
+      </nav>
+      <div class="logo-home">
+        <img src="/assets/images/logo_circle_2_lgray.svg" alt="Axis Lab Ltd">
+      </div>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+  </body>
+</html>

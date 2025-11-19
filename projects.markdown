@@ -1,11 +1,9 @@
 ---
 layout: default
+title: Projects
 ---
 
-# Projects
-
-
-## Huygens
+# Huygens
 
 Wave optics with Python in Angular spectrum approach.
 
@@ -25,8 +23,7 @@ Wave optics with Python in Angular spectrum approach.
 The general plane-to-plane propagation method can be used to model low-profile mirrors and `thick' optical components, such as prisms, beam splitters, and filters with an arbitrary refraction coefficient, with minimum effort.
 
 
-
-## Eikonal
+# Eikonal
 
 Eikonal-based wave optics with Python.
 

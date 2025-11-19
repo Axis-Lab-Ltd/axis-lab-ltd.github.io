@@ -16,7 +16,7 @@ Wave optics with Python in Angular spectrum approach.
   + plane-to-plane propagation;
   + propagation and projection to a surface of arbitrary shape.
 - Advanced criterion for band limited propagation:
-  + the Nyquist criterion applies to every point on the target surface; this may be important when the deflection angleis large.
+  + the Nyquist criterion applies to every point on the target surface; this may be important in case of the large deflection angles.
 - Basic optical elements: apertures, spherical and cylindrical thin lenses.
 - Refraction coefficients for some glasses (BK7, F2, SF5).
 

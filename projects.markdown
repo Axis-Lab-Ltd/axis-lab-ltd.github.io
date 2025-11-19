@@ -11,7 +11,7 @@ Wave optics with Python in Angular spectrum approach.
 
 <i class="fab fa-github"></i> &nbsp; <https://github.com/evgenykurbatov/huygens>
 
-**Huygens** is the Python library for scalar wave-optics with full support of [JAX](https://github.com/google/jax) and [Equinox](https://github.com/patrick-kidger/equinox) libraries.
+**Huygens** is the Python library for scalar wave optics with full support of [JAX](https://github.com/google/jax) and [Equinox](https://github.com/patrick-kidger/equinox) libraries.
 
 **Features**:
 - Angular spectrum propagation for off-axis and tilted settings:

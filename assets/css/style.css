@@ -6,7 +6,7 @@ body {
 header {
   background-color: #000;
   color: #fff;
-  padding: 20px 0.5cm;
+  padding: 1.25rem;
 }
 
 nav ul {
@@ -18,7 +18,7 @@ nav ul {
 
 nav ul li {
   display: inline-block;
-  margin-left: 20px;
+  margin-left: 1.25rem;
 }
 
 nav ul li a {
@@ -27,19 +27,19 @@ nav ul li a {
 }
 
 .logo-home {
-  padding-top: 20px;
+  padding-top: 1.25rem;
   text-align: center;
 }
 
 .logo-home img {
-  width: 15em;
+  width: 15rem;
 }
 
 .branding {
   display: flex;
   align-items: center;
-  padding-top: 20px;
-  gap: 0.5cm;
+  padding-top: 1.25rem;
+  gap: 1.25rem;
 }
 
 .logo {
@@ -47,44 +47,51 @@ nav ul li a {
 }
 
 .logo img {
-  width: 5em;
+  width: 5rem;
 }
 
 .head {
-  font-size: 2.5em;
+  font-size: 2.5rem;
   font-weight: bold;
 }
 
+.head-home {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1.25rem;
+}
+
 main {
-  margin: 1cm 1cm;
-  padding-bottom: 1cm;
+  margin: 2.5rem;
+  padding-bottom: 2.5rem;
 }
 
 main h1 {
-  margin: 1cm 1cm;
+  margin: 2.5rem;
 }
 
 main h2 {
-  margin: 1cm 1cm;
+  margin: 2.5rem;
 }
 
 main p {
-  margin: 0.5cm 1cm;
+  margin: 1.25rem 2.5rem;
 }
 
 main ul li {
-  margin: 0cm 1cm;
+  margin: 0 2.5rem;
 }
 
 footer {
   background-color: #f2f2f2;
-  padding: 40px 20px;
+  padding: 2.5rem 1.25rem;
 }
 
 .footer-columns {
   display: flex;
   justify-content: center;
-  gap: 15em;
+  gap: 15rem;
 }
 
 .footer-column {

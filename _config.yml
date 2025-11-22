@@ -43,6 +43,7 @@ plugins:
 exclude:
   - runme.sh
   - pidfile_*
+  - _*
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

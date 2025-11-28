@@ -23,6 +23,7 @@ Wave optics with Python in Angular spectrum approach.
 The general plane-to-plane propagation method can be used to model low-profile mirrors and `thick' optical components, such as prisms, beam splitters, and filters with an arbitrary refraction coefficient, with minimum effort.
 
 
+<!--
 # Eikonal
 
 Eikonal-based wave optics with Python.
@@ -30,3 +31,4 @@ Eikonal-based wave optics with Python.
 <i class="fab fa-github"></i> &nbsp; <https://github.com/evgenykurbatov/eikonal>
 
 **Eikonal** is the Python library for scalar wave optics with full support of [JAX](https://github.com/google/jax) and [Equinox](https://github.com/patrick-kidger/equinox) libraries. The model is based on the complex phase (i.e. "eikonal") representation for the scalar wave equation. Compared to the Angular Spectrum formalism, this approach significantly reduces memory consumption since direct and inverse Fourier transforms are not required. Compared to the Direct Integration approach, this idea relaxes the spatial resolution requirements, since there is no need to summarise rapidly oscillating functions.
+-->
